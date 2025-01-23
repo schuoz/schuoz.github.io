@@ -16,4 +16,4 @@ redirect_from:
 ## 👨🏻‍🔬 Professional Experience
 Currently I am working as a **PhD student Researcher** at the Ecosystems and Landscape Evolution group at the ETH Zurich under the supervision of Prof. Dr. Loïc Pellissier and Prof. Dr. Jan Dirk Wegner working on **Combining remote sensing and eDNA for large river biodiversity monitoring**.
 Additionally, I have professional experience serving as a **Scientific Advisor** at Riverkin. \
-There I worked on provding remote sensing and biodiversity conservation expertise.
+There I worked on provding remote sensing and biodiversity conservation expertise for building hydorlogical observtory network using Riverkin's highly integrated sensors.
