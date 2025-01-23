@@ -25,12 +25,14 @@ There I worked on provding remote sensing and biodiversity conservation expertis
 
 [What makes a river wild?](https://www.linkedin.com/feed/update/urn:li:activity:7257708477995773952/)
 
-## Project page
+## 🗺️ Project page
 
 [Satellite4Biodiversity](https://ele.ethz.ch/research/technology-modelling/satellite4biodiversity-.html) - Large scale fast biodiversity observation from space
 
 [Finding wild rivers with AI](https://ele.ethz.ch/research/technology-modelling/citizen-river.html)
 
 Want to play a geography game? [Wild river game](https://lab.citizenscience.ch/en/project/769)
+
+![River](/images/top_down.png){: .align-right width="300px"}
 
 
