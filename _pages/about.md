@@ -35,4 +35,4 @@ Want to play a geography game? [Wild river game](https://lab.citizenscience.ch/e
 
 ![River](/images/Danube.png){: .align-left width="300px"} ![River](/images/top_down.png){: .align-right width="300px"}
 
-
+Credits:@Fabian Fobb
