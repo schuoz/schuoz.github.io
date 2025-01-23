@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Illustration of satellite vison model](/images/robot_home_page.png){: .align-right width="300px"}
+
 👨🏻‍💻 I'm a final year PhD student at ETH Zurich.
 
 🔬 My research interests are in Biodiversity monitoring with remote sensing and machine learning!
