@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hi there, I am Shuo"
+title: "👋🏼 Hi, It's Shuo here"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,10 +13,10 @@ redirect_from:
 
 🔬 My research interests are in Biodiversity monitoring with remote sensing and machine learning!
 
-📚 I'm currently working towards my PhD's Thesis "Biodiversity Monitoing 🌍 in large rivers with remote sensing 🛰️ and environmental DNA 🧬".
+📚 I'm currently working towards my PhD Thesis "Biodiversity Monitoing 🌍 in large rivers with remote sensing 🛰️ and environmental DNA 🧬".
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **PhD student Researcher** at the Ecosystems and Landscape Evolution group at the ETH Zurich under the supervision of Prof. Dr. Loïc Pellissier and Prof. Dr. Jan Dirk Wegner working on **Combining remote sensing and eDNA for large river biodiversity monitoring**.
+Currently I am working as a **PhD student Researcher** at the Ecosystems and Landscape Evolution group at ETH Zurich under the supervision of Prof. Dr. Loïc Pellissier and Prof. Dr. Jan Dirk Wegner working on **Combining remote sensing and eDNA for large river biodiversity monitoring**.
 Additionally, I have professional experience serving as a **Scientific Advisor** at Riverkin.
 There I worked on provding remote sensing and biodiversity conservation expertise for building hydorlogical observtory network using Riverkin's highly integrated sensors.
 
@@ -25,7 +25,7 @@ There I worked on provding remote sensing and biodiversity conservation expertis
 
 [What makes a river wild?](https://www.linkedin.com/feed/update/urn:li:activity:7257708477995773952/)
 
-## 🗺️ Project page
+## 🗺️ Project pages
 
 [Satellite4Biodiversity](https://ele.ethz.ch/research/technology-modelling/satellite4biodiversity-.html) - Large scale fast biodiversity observation from space
 
@@ -35,4 +35,4 @@ Want to play a geography game? [Wild river game](https://lab.citizenscience.ch/e
 
 ![River](/images/Danube.png){: .align-left width="300px"} ![River](/images/top_down.png){: .align-right width="300px"}
 
-Credits:@Fabian Fobb
+Credits: @[Fabian Fobb](https://fabianfopp.com/)
