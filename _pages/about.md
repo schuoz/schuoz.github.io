@@ -33,6 +33,9 @@ There I worked on provding remote sensing and biodiversity conservation expertis
 
 Want to play a geography game? [Wild river game](https://lab.citizenscience.ch/en/project/769)
 
-![River](/images/Danube.png){: .align-left width="350px"} ![River](/images/top_down.png){: .align-right width="350px"} \
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="/images/Danube.png" alt="River" style="width: 350px; margin-right: 10px;">
+    <img src="/images/top_down.png" alt="River" style="width: 350px;">
+</div>
 
 Credits: @[Fabian Fobb](https://fabianfopp.com/)
