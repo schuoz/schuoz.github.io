@@ -9,14 +9,15 @@ redirect_from:
 
 ![Illustration of satellite vison model](/images/robot_home_page.png){: .align-right width="300px"}
 
-👨🏻‍💻 I'm a final year PhD student at ETH Zurich.
+👨🏻‍💻 I'm a PostDoc Researcher specializing in multi-source earth observation and machine learning for ecological and
+biodiversity monitoring at ETH Zurich .
 
 🔬 My research interests are in Biodiversity monitoring with remote sensing and machine learning!
 
-📚 I'm currently working towards my PhD Thesis "Biodiversity Monitoing 🌍 in large rivers with remote sensing 🛰️ and environmental DNA 🧬".
+📚 My PhD Thesis is "Biodiversity Monitoing 🌍 in large rivers with remote sensing 🛰️ and environmental DNA 🧬".
 
 ## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **PhD student Researcher** at the Ecosystems and Landscape Evolution group at ETH Zurich under the supervision of Prof. Dr. Loïc Pellissier and Prof. Dr. Jan Dirk Wegner working on **Combining remote sensing and eDNA for large river biodiversity monitoring**.
+Currently I am working as a **PostDoc Researcher** at the Ecosystems and Landscape Evolution group at ETH Zurich with Prof. Dr. Loïc Pellissier and Prof. Dr. Jan Dirk Wegner working on **Combining remote sensing and eDNA for large river biodiversity monitoring**.
 Additionally, I have professional experience serving as a **Scientific Advisor** at Riverkin.
 There I worked on provding remote sensing and biodiversity conservation expertise for building hydorlogical observtory network using Riverkin's highly integrated sensors.
 
