@@ -22,6 +22,8 @@ Additionally, I have professional experience serving as a **Scientific Advisor**
 There I worked on provding remote sensing and biodiversity conservation expertise for building hydorlogical observtory network using Riverkin's highly integrated sensors.
 
 ## 📜 Posts
+[I successfully defended my PhD thesis at 16th of April, 2025!!!](https://www.linkedin.com/feed/update/urn:li:activity:7331590410349219841/)
+
 [Citizen scientists help protecting wild rivers](https://www.citizenscience.uzh.ch/en/news/blog/wildriver.html)
 
 [What makes a river wild?](https://www.linkedin.com/feed/update/urn:li:activity:7257708477995773952/)
